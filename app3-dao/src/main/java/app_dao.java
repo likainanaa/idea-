@@ -6,4 +6,9 @@ public class app_dao {
         System.out.println("....");
         return "name:zs age:19";
     }
+    public String insert(){
+        System.out.println("....");
+        return 0;
+    }
+    
 }
