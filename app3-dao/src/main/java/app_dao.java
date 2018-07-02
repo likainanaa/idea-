@@ -3,6 +3,6 @@
  */
 public class app_dao {
     public String query(){
-        return "name:zs";
+        return "name:zs age:19";
     }
 }
