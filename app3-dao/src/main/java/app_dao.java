@@ -8,7 +8,7 @@ public class app_dao {
     }
     public String insert(){
         System.out.println("....");
-        return 0;
+        return "";
     }
     
 }
