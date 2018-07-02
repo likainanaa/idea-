@@ -3,6 +3,7 @@
  */
 public class app_dao {
     public String query(){
+        System.out.println("....");
         return "name:zs age:19";
     }
 }
